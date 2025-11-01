@@ -1,2 +1,7 @@
 .idea/
 *.iml
+__pycache__/
+.env
+credit-card-service/
+.data/
+data/*.json
